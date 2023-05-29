@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .VLstack 
+        .Xstack 
         { 
          color:#368EC4; 
          font-size:1.25rem; 
@@ -11,10 +11,8 @@
         }
       </style>
 
-      <div class="VLstack">
-        <span>VLstack - Laurent Vilday
-        <br>
-          Full-stack web and iOS app developer</span>
+      <div class="Xstack">
+        test
       </div>
     </div>
   </foreignObject>
