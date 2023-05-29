@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VLstack.visitor-badgek&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VLstack)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VLstack.visitor-badge)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VLstack.VLstack)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VLstack.VLstack.visitor-badge)
 
 <!--
 **VLstack/VLstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
