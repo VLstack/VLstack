@@ -12,9 +12,9 @@
       </style>
 
       <div class="VLstack">
-        VLstack - Laurent Vilday
+        <span>VLstack - Laurent Vilday
         <br>
-        Full-stack web and iOS app developer
+          Full-stack web and iOS app developer</span>
       </div>
     </div>
   </foreignObject>
