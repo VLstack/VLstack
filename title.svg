@@ -1,73 +1,29 @@
 <svg fill="none" viewBox="0 0 600 100" width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        * { background-color:#fff; text-align:center }
-        .VLstack 
-        { 
-         color:#368EC4; 
-         font-size:1.5rem; 
-         line-height:1.5; 
-         font-family:arial
-        }
-        
-        .stats
-        { display:none;
-         width:100%;
-         display:flex;
-         flex-direction:row;
-         align-items:center;
-        }
-        
-        .stats > div { flex:1; background-color:red }
-      </style>
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+:root
+{
+ --primary-color:#368EC4;
+}
+*
+{
+ background-color:#fff
+}
+.VLstack
+{
+ color:var(--primary-color);
+ line-height:1.5;
+ font-family:arial
+}
+.VLstack h1 { font-size:1.5rem }
+.VLstack h2 { font-size:1.25rem }
+</style>
 
-      <div class="VLstack">
-        VLstack - Laurent Vilday
-        <br />
-        Full-stack web and iOS app developer
-      </div>
-      
-      <!--div class="stats" id="svgContainer">
-        <div><image xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=VLstack&layout=donut&hide_title=true&count_private=true&hide_border=true" width="100%" height="100%" /></div>
-        <div>B</div>
-      </div>
-
-      <div class="stats">
-        <div>
-          <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%">
-           <image xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=VLstack&layout=donut&hide_title=true&count_private=true&hide_border=true" width="100%" height="100%" />
-          </svg>
-        </div>
-        <div>B</div>
-      </div-->
-      
-      
-      
-    </div>
-  </foreignObject>
-  <script type="text/javascript">
-  //<![CDATA[
-    const svgContainer = document.getElementById('svgContainer');
-
-    fetch('https://github-readme-stats.vercel.app/api/top-langs/?username=VLstack&layout=donut&hide_title=true&count_private=true&hide_border=true')
-      .then(response => response.text())
-      .then(svgText => {
-        const parser = new DOMParser();
-        const foreignDoc = parser.parseFromString(svgText, 'image/svg+xml');
-        const svgElement = foreignDoc.documentElement;
-
-        // Set the SVG element's width and height attributes
-        svgElement.setAttribute('width', '100%');
-        svgElement.setAttribute('height', '100%');
-
-        svgContainer.innerHTML = ''; // Clear the "Loading..." message
-        svgContainer.appendChild(svgElement);
-      })
-      .catch(error => {
-        svgContainer.textContent = 'Error loading SVG';
-        console.error('Error:', error);
-      });
-  //]]>
-  </script>
+<div class="VLstack">
+  <h1>VLstack - Laurent Vilday</h1>
+  <h2>Full-stack web and iOS app developer</h2>
+</div>           
+</div>
+</foreignObject>
 </svg>
