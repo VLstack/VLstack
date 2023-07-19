@@ -23,7 +23,7 @@
 
 - 🔭 I am currently working on **yumBook**
 - 🌱 and learning **Core ML**
-<!-- - 📫 **contact@vlstack.fr** -->
+- 📫 **contact@vlstack.fr**
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=VLstack&no-frame=true)
 
