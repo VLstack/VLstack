@@ -3,23 +3,14 @@
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>
 :root { --primary-color:#368ec4 }
-*
-{
- background-color:#fff
-}
-.VLstack
-{
- color:var(--primary-color);
- line-height:1;
- font-family:arial
-}
+* { background-color:#fff }
+.VLstack { color:var(--primary-color); line-height:1; font-family:arial }
 .VLstack h1 { font-size:1.5rem }
 .VLstack h2 { font-size:1.25rem }
 </style>
-
 <div class="VLstack">
-  <h1>VLstack - Laurent Vilday</h1>
-  <h2>Full-stack web and iOS app developer</h2>
+<h1>VLstack - Laurent Vilday</h1>
+<h2>Full-stack web and iOS app developer</h2>
 </div>
 </div>
 </foreignObject>
