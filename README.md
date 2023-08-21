@@ -27,7 +27,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=VLstack&no-frame=true)
 
-<table>   
+<table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLstack&layout=donut&hide_title=true&count_private=true&hide_border=true">
@@ -39,7 +39,7 @@
 <tr><td colspan=2></td></tr>
 <tr>
 <td colspan=2 align=center>
-<img src="https://streak-stats.demolab.com/?user=VLstack&hide_border=true">
+<img src="https://streak-stats.demolab.com/?user=VLstack&hide_border=true&&date_format=j%20M%5B%20Y%5D&ring=368EC4&fire=E87B00&currStreakLabel=E87B00&sideLabels=368EC4&dates=374147&currStreakNum=E87B00&sideNums=374147">
 </td>
 </tr>
 </table>
