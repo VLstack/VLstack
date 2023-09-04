@@ -29,13 +29,16 @@
 
 <table>
 <tbody>
-<tr style="border:0">
-<td style="border:0">
+<tr>
+<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLstack&layout=donut&hide_title=true&count_private=true&hide_border=true">
 </td>
-<td style="border:0">
+<td>
 <img src="https://github-readme-stats.vercel.app/api?username=VLstack&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&hide=contribs&hide_rank=true&hide_border=true">
 </td>
 </tr>
 </tbody>
 </table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLstack&layout=donut&hide_title=true&count_private=true&hide_border=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VLstack&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&hide=contribs&hide_rank=true&hide_border=true" align="right">
