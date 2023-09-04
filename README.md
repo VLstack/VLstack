@@ -27,7 +27,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=VLstack&no-frame=true)
 
-<table>
+<table border=0>
 <tbody>
 <tr>
 <td>
