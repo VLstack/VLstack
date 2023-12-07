@@ -21,7 +21,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-- 🔭 I am currently working on **yumBook**
+- 🔭 I am currently working on **Yumeo**
 - 🌱 and learning **Core ML**
 - 📫 **contact@vlstack.fr**
 
